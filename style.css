@@ -27,11 +27,11 @@ h1 {
     font-family: 'Codystar', cursive;
 }
 
-h2 {
-    font-family: 'Oswald', sans-serif;
+h2, h3, h4 {
+    font-family: 'Poppins', sans-serif;
 }
 
 span {
-    font-size: smaller;
-    font-family: 'Noto Serif JP', serif;
+    font-size: 60%;
+    font-weight: normal;
 }
