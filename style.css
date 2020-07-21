@@ -35,3 +35,17 @@ span {
     font-size: 60%;
     font-weight: normal;
 }
+
+.flash {
+    animation: flash 3s linear infinite;
+}
+  
+@keyframes flash {
+    0%,100% {
+      opacity: 1;
+    }
+  
+    50% {
+      opacity: 0;
+    }
+}
