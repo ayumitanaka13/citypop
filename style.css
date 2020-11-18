@@ -39,11 +39,7 @@ span {
 .flash {
     animation: flash 3s linear infinite;
 }
-/* 
-#more {
-    width: 200%;
-}
-   */
+
 @keyframes flash {
     0%,100% {
       opacity: 1;
